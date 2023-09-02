@@ -5,6 +5,12 @@
 - 📫 28살에 은퇴하고 앱개발 시작 (Swift, Flutter, Kotlin)
 - 📫 31살에 웹개발을 중점으로 공부했습니다 (JS, TS, React.JS, Node.JS)
 - 📫 현재는 Golang 백엔드 공부와 SQL, AWS 를 공부하고 있습니다.
+- 지금의 목표는 아래와 같습니다
+- 웹프론트 (JS, React.JS Next.JS)
+- 앱프론트 (Flutter)
+- 백엔드 (Golang)
+- SQL (PostgreSQL)
+- AWS
 
 
 
